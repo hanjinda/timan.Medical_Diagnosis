@@ -1,4 +1,4 @@
-# X Search -- Medical Diagnosis System in PHP, MySQL, Java
+# X Search -- An Intelligent Medical Diagnosis System using PHP, MySQL, Java
 Please visit our [web page][MDXSearch-website] for information and tutorials about MD XSearch Project!
 
 # Intro
